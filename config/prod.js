@@ -6,3 +6,4 @@ module.exports = {
   mongoURI: process.env.MONGO_URI,
   cookeiKey: process.env.COOKIE_KEY
 }
+
